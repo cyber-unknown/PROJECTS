@@ -11,7 +11,7 @@ FILE CONVERSION I/O
 					
 			caution:
 			      make sure asserts folder is in the same location of the conversion tool
-						output is saved in the same directory of the input file with the same name
+			      output is saved in the same directory of the input file with the same name
 			
 <-> AVAILABLE CONVERSIONS :
 			
